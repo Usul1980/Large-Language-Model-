@@ -54,9 +54,12 @@ Fire up Terminal, and run the following line of code:
  
 If you see a screen similar to the above, then the installation was a success!
 Now to choose a tiny llm.
-You can see the ollama library here: https://ollama.com/library
+You can see the ollama library here: 
+
+https://ollama.com/library
+
 I opted for tinlyllama, which is around 600MB.
-Run the following line to download it and start running it:
+Run the following line in terminal to download it and start running it:
 
 `ollama run tinyllama`
 
