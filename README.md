@@ -47,7 +47,7 @@ So now that that’s done, you can eject your card and reinsert it into your ras
 
 Now we are ready to install Ollama, the framework we are going to use to run a tiny LLM.
 Fire up Terminal, and run the following line of code:
-curl https://ollama.ai/install.sh | sh
+`curl https://ollama.ai/install.sh | sh`
 
  
 If you see a screen similar to the above, then the installation was a success!
