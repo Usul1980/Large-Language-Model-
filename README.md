@@ -44,6 +44,7 @@ The next screen will be a prompt reminding you that all existing data on the car
 
 So now that that’s done, you can eject your card and reinsert it into your raspberry pi. On startup you should be faced with raspberry pi desktop, a nice GUI with which to interface. Go through the initial setup and you are done you should be looking at a nice home screen, perhaps similar to this one:
  
+![Picture6](https://github.com/user-attachments/assets/49506042-4d5e-479c-80db-e07ef07c1800)
 
 ### Installing Ollama
 
