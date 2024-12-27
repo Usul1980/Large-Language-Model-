@@ -44,7 +44,8 @@ If you see a screen similar to the above, then the installation was a success!
 Now to download a tiny LLM, the one I initially went with is called phi3 and is around 2.2GB.
 Run the following line to download it and start running it:
 ollama run phi3
-it will download it and start it up automatically! \n
+it will download it and start it up automatically!
+
 Once that’s done, give it a question:
 
 
