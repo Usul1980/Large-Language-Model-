@@ -54,7 +54,9 @@ If you see a screen similar to the above, then the installation was a success!
 Now to choose a tiny llm.
 I opted for tinlyllama, which is around 600MB.
 Run the following line to download it and start running it:
-ollama run tinyllama
+
+`ollama run tinyllama`
+
 it will download it and start it up automatically!
 
 Once that’s done, give it a question:
