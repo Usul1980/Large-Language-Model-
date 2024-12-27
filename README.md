@@ -48,7 +48,7 @@ it will download it and start it up automatically!
 
 Once that’s done, give it a question:
 
-![alt text](https://github.com/[Usul1980]/[Large-Language-Model-]/edit/main/recording.mp4?raw=true)
+![alt text](https://github.com/[Usul1980]/[Large-Language-Model-]/main/recording.mp4?raw=true)
 
 
 
