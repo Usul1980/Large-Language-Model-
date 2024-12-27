@@ -1,4 +1,4 @@
-# Large-Language-Model-
+# Large-Language-Model
 creating an offline assistant on a tiny raspberry pi4
 ###How to run an AI assistant on Raspberry Pi 4 Model B with 8GB RAM
 
