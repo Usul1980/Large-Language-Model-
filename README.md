@@ -14,7 +14,7 @@ What you will need to do this is:
 •	An SD card reader
 OK you will need to download raspberry pi imager onto your other computer using this link:
 
-(https://www.raspberrypi.com/software/)
+https://www.raspberrypi.com/software/
 
 I used my windows surface so downloaded the windows version:
  ![Picture1](https://github.com/user-attachments/assets/cb0b4fd4-ba73-4857-9edc-2b3c3c0e1950)
@@ -54,6 +54,7 @@ Fire up Terminal, and run the following line of code:
  
 If you see a screen similar to the above, then the installation was a success!
 Now to choose a tiny llm.
+You can see the ollama library here: https://ollama.com/library
 I opted for tinlyllama, which is around 600MB.
 Run the following line to download it and start running it:
 
