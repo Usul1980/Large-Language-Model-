@@ -1,18 +1,20 @@
 # Large-Language-Model
-creating an offline assistant on a tiny raspberry pi4
+creating an offline virtual assistant on a tiny raspberry pi4
 
 ### How to run an AI assistant on Raspberry Pi 4 Model B with 8GB RAM
 
 OK hi folks. I bought my raspberry pi 4 model b a while back, 2 years ago at least. It has 8GB of RAM and this was novel at the time I would say.
 Recently I got interested in running an LLM on it. The rest of this article details how I went about that.
-Upgrading from 32bit to 64bit architecture
+
+### Upgrading from 32bit to 64bit architecture
+
 So the necessary prerequisite was to upgrade my raspberry pi’s outdated architecture. 
 What you will need to do this is:
 •	A separate computer with
 •	An SD card reader
 OK you will need to download raspberry pi imager onto your other computer using this link:
 
-https://www.raspberrypi.com/software/
+(https://www.raspberrypi.com/software/)
 
 I used my windows surface so downloaded the windows version:
  ![Picture1](https://github.com/user-attachments/assets/cb0b4fd4-ba73-4857-9edc-2b3c3c0e1950)
