@@ -1,5 +1,4 @@
 # Large-Language-Model
-creating an offline virtual AI assistant on a tiny raspberry pi4
 
 ### How to run an offline virtual AI assistant on Raspberry Pi 4 Model B with 8GB RAM
 
