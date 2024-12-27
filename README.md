@@ -51,9 +51,7 @@ Now we are ready to install Ollama, the framework we are going to use to run a t
 Fire up Terminal, and run the following line of code:
 `curl https://ollama.ai/install.sh | sh`
 
- 
-If you see a screen similar to the above, then the installation was a success!
-Now to choose a tiny llm.
+Once that's done, you now need to choose a tiny llm.
 You can see the ollama library here: 
 
 https://ollama.com/library
@@ -70,6 +68,8 @@ Once that’s done, give it a question:
 
 
 https://github.com/user-attachments/assets/4fb9891a-84fc-4f00-bfb1-1c8ed575da19
+
+And you are done! Well done on your first offline virtual AI assistant!
 
 
 
