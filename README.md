@@ -10,11 +10,14 @@ What you will need to do this is:
 •	A separate computer with
 •	An SD card reader
 OK you will need to download raspberry pi imager onto your other computer using this link:
+
 https://www.raspberrypi.com/software/
+
 I used my windows surface so downloaded the windows version:
  ![Picture1](https://github.com/user-attachments/assets/cb0b4fd4-ba73-4857-9edc-2b3c3c0e1950)
 
 Once you install it, run it.
+
 You should see this:
  
 ![Picture2](https://github.com/user-attachments/assets/e48629ca-c058-4975-8752-752517618ecf)
@@ -34,12 +37,12 @@ Next click on STORAGE and choose your SD Card:
 Next you can choose NO for custom settings application during install if you like. All this means is that when you put the SD card back in to your pi4 and start it up, some setup questions will be asked of you on the pi4, such as settings for WIFI, browser preference etc.
 The next screen will be a prompt reminding you that all existing data on the card will be erased. Make sure you have backed up anything you want before proceeding to continue! Writing the OS to the card may take 5 minutes or more.
 
-###Moving over to the raspberry pi
+### Moving over to the raspberry pi
 
 So now that that’s done, you can eject your card and reinsert it into your raspberry pi. On startup you should be faced with raspberry pi desktop, a nice GUI with which to interface. Go through the initial setup and you are done you should be looking at a nice home screen, perhaps similar to this one:
  
 
-Installing Ollama
+### Installing Ollama
 
 Now we are ready to install Ollama, the framework we are going to use to run a tiny LLM.
 Fire up Terminal, and run the following line of code:
@@ -47,9 +50,10 @@ curl https://ollama.ai/install.sh | sh
 
  
 If you see a screen similar to the above, then the installation was a success!
-Now to download a tiny LLM, the one I initially went with is called phi3 and is around 2.2GB.
+Now to choose a tiny llm.
+I opted for tinlyllama, which is around 600MB.
 Run the following line to download it and start running it:
-ollama run phi3
+ollama run tinyllama
 it will download it and start it up automatically!
 
 Once that’s done, give it a question:
