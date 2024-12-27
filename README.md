@@ -2,7 +2,7 @@
 
 ### How to run an offline virtual AI assistant on Raspberry Pi 4 Model B with 8GB RAM
 
-OK hi folks. I bought my raspberry pi 4 model b a while back, 2 years ago at least. It has 8GB of RAM and this was novel at the time I would say.
+OK hi folks. I bought my raspberry pi 4 model b a while back, 2 years ago in 2022 at least. It has 8GB of RAM and this was novel at the time I would say.
 Recently I got interested in running an LLM on it. The rest of this article details how I went about that.
 
 ### Upgrading from 32bit to 64bit architecture
